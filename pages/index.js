@@ -2,6 +2,7 @@ import Head from "next/head";
 import { Inter } from "@next/font/google";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <div className="bg-gray-800">
         <Header />
         <Hero />
+        <Footer />
       </div>
     </>
   );
