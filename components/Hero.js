@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 function Hero() {
   return (
@@ -24,12 +25,14 @@ function Hero() {
                 truffaut hexagon try-hard chambray.
               </p>
               <div class="flex justify-center">
-                <a
-                  href=""
-                  class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
-                >
-                  Book Now!
-                </a>
+                <p>
+                  <Link
+                    href="/gallery"
+                    class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+                  >
+                    Book Now!
+                  </Link>
+                </p>
               </div>
             </div>
           </div>
