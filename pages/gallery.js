@@ -20,7 +20,7 @@ function gallery() {
                 <p class="leading-relaxed">Explore the wonder of the world!</p>
                 <p>
                   <Link
-                    href="/"
+                    href="/tajmahal"
                     class="mt-3 text-gray-900 inline-flex items-center"
                   >
                     Learn more
@@ -43,9 +43,12 @@ function gallery() {
                     <p class="leading-relaxed">
                       Skateboard +1 mustache fixie paleo lumbersexual.
                     </p>
-                    <a class="mt-3 text-gray-900 inline-flex items-center">
-                      Learn More
-                    </a>
+                    <Link
+                      href="/hampi"
+                      class="mt-3 text-gray-900 inline-flex items-center"
+                    >
+                      Learn more
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -63,9 +66,12 @@ function gallery() {
                     <p class="leading-relaxed">
                       Skateboard +1 mustache fixie paleo lumbersexual.
                     </p>
-                    <a class="mt-3 text-gray-900 inline-flex items-center">
-                      Learn More
-                    </a>
+                    <Link
+                      href="/hawamahal"
+                      class="mt-3 text-gray-900 inline-flex items-center"
+                    >
+                      Learn more
+                    </Link>
                   </div>
                 </div>
               </div>
