@@ -19,7 +19,7 @@ function hampi() {
               jianbing tousled. Chambray dreamcatcher trust fund, kitsch vice
               godard disrupt ramps hexagon mustache umami snackwave tilde
               chillwave ugh. Pour-over meditation PBR&B pickled ennui celiac
-              mlkshk freegan photo booth af fingerstache pitchfork.
+              mlkshk freegan image booth af fingerstache pitchfork.
             </p>
             <div class="flex justify-center">
               <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
