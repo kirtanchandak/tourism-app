@@ -1,4 +1,5 @@
 import React from "react";
+import Avatar from "../Chat/SupportEngine/Avatar";
 
 function Footer() {
   return (
@@ -41,6 +42,7 @@ function Footer() {
           </span>
         </div>
       </footer>
+      <Avatar />
     </div>
   );
 }
